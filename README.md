@@ -5,7 +5,7 @@
   ## ``I am Aryan Gupta, Ist year Undergrad at JIIT, Sector-62, Noida``
 </div><br>
 
-### About Me 🤓🤠👀👤👱‍♂️👦👨‍💻👨‍🎓
+### About Me 👀
 ```javascript
 const about_me = {
     pronouns: "he" | "him",
