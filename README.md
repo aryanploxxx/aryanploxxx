@@ -22,7 +22,7 @@ const about_me = {
 
 <br>
 <p align="left">
-  <a href="https://github.com/aryanploxxx"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a>
+  <a href="https://github.com/aryanploxxx" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/aryanploxxx"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/aryanploxxx" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
 </p>
