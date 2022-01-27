@@ -19,3 +19,10 @@ const about_me = {
     currentChallenge: "Hackerrank 30 Days of Code in C"
 }
 ```
+
+<br>
+<p align="left">
+  <a href="https://github.com/aryanploxxx"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aryanploxxx"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
+</p>
