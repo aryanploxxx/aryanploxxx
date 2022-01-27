@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+  <!-- ### Hi there 👋 -->
+  <img src="https://user-images.githubusercontent.com/94754702/151361105-f1eb05d3-5cbf-4f0d-9d4f-36263e78efa3.gif" width="550"/><br>
+  
+  ## ``I am Aryan Gupta, Ist year Undergrad at JIIT, Sector-62, Noida``
+</div><br>
 
-<!--
-**aryanploxxx/aryanploxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 🤓🤠👀👤👱‍♂️👦👨‍💻👨‍🎓
+```javascript
+const about_me = {
+    pronouns: "he" | "him",
+    ProgramingLanguages: [C, C++, Javascript],
+    OtherLanguages: [Markdown, HTML5, CSS3],
+    Database: [Firebase],
+    Editors: [VSCode, Sublime, Notepad++],
+    techCommunities: {
+                          core-teamMember: "OSDC, JIIT"
+                        },
+    currentChallenge: "Hackerrank 30 Days of Code in C"
+}
+```
